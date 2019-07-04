@@ -1,10 +1,10 @@
-## Common CRUD Rest API 
+# Common CRUD Rest API 
 
-# Prime
+## Prime
   - Function to print prime numbers from 1 to n
 
-# Fibonacci
+## Fibonacci
   - Function to print fibonacci numbers from 1 to n
 
-# Breakdown
+## Breakdown
   - Function to breakdown a line of numbers based on unit names
